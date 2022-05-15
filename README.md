@@ -2,6 +2,8 @@
  
 Welcome to the GreatQuotes wiki!
 
+Deployed URL: https://greatquotesreactjs.web.app/quotes
+
 Home Screen
 
 ![image](https://user-images.githubusercontent.com/59108427/168496738-b2392090-c3d0-49c9-a918-9e664888a7be.png)
